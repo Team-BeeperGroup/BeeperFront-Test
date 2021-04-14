@@ -1,1 +1,3 @@
-# BeeperFront
+# Rutas disponibles
+- /register
+- /login
