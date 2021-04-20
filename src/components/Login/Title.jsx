@@ -1,7 +1,7 @@
 import React from "react";
 
 const renderBody= (body)=>{
-  if(body!= ""){
+  if(body!== ""){
     return(<div className="col-md-6 col-lg-4">
     <p className="text-center fs-6">{body}</p>
   </div>);
