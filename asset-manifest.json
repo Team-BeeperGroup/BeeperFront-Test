@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BeeperFront-Test/static/css/main.a85688b7.chunk.css",
-    "main.js": "/BeeperFront-Test/static/js/main.4a083217.chunk.js",
-    "main.js.map": "/BeeperFront-Test/static/js/main.4a083217.chunk.js.map",
+    "main.js": "/BeeperFront-Test/static/js/main.bf4da810.chunk.js",
+    "main.js.map": "/BeeperFront-Test/static/js/main.bf4da810.chunk.js.map",
     "runtime-main.js": "/BeeperFront-Test/static/js/runtime-main.80768521.js",
     "runtime-main.js.map": "/BeeperFront-Test/static/js/runtime-main.80768521.js.map",
     "static/js/2.a43846af.chunk.js": "/BeeperFront-Test/static/js/2.a43846af.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.80768521.js",
     "static/js/2.a43846af.chunk.js",
     "static/css/main.a85688b7.chunk.css",
-    "static/js/main.4a083217.chunk.js"
+    "static/js/main.bf4da810.chunk.js"
   ]
 }
