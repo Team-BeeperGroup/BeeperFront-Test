@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BeeperFront-Test/static/css/main.a85688b7.chunk.css",
+    "main.js": "/BeeperFront-Test/static/js/main.4a083217.chunk.js",
+    "main.js.map": "/BeeperFront-Test/static/js/main.4a083217.chunk.js.map",
+    "runtime-main.js": "/BeeperFront-Test/static/js/runtime-main.80768521.js",
+    "runtime-main.js.map": "/BeeperFront-Test/static/js/runtime-main.80768521.js.map",
+    "static/js/2.a43846af.chunk.js": "/BeeperFront-Test/static/js/2.a43846af.chunk.js",
+    "static/js/2.a43846af.chunk.js.map": "/BeeperFront-Test/static/js/2.a43846af.chunk.js.map",
+    "index.html": "/BeeperFront-Test/index.html",
+    "static/css/main.a85688b7.chunk.css.map": "/BeeperFront-Test/static/css/main.a85688b7.chunk.css.map",
+    "static/js/2.a43846af.chunk.js.LICENSE.txt": "/BeeperFront-Test/static/js/2.a43846af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80768521.js",
+    "static/js/2.a43846af.chunk.js",
+    "static/css/main.a85688b7.chunk.css",
+    "static/js/main.4a083217.chunk.js"
+  ]
+}
