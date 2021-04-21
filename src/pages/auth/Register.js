@@ -21,7 +21,7 @@ const Register = () => {
     try {
       await axios({
         method: "post",
-        url: "http://192.168.204.118:8081/api/createUser",
+        url: "https://beeper-webapp-2021.herokuapp.com/api/createUser",
         headers: {},
         data: {
           Nombre: nombre,
